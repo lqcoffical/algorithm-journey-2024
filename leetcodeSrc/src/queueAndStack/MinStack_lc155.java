@@ -42,4 +42,5 @@ public class MinStack_lc155 {
             return min[size - 1];
         }
     }
+
 }

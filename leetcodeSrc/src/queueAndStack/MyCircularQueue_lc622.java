@@ -1,6 +1,7 @@
 package queueAndStack;
 
 public class MyCircularQueue_lc622 {
+
     class MyCircularQueue {
 
         public int[] queue;
@@ -62,4 +63,5 @@ public class MyCircularQueue_lc622 {
             return size == limit;
         }
     }
+
 }

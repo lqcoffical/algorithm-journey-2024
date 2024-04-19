@@ -42,4 +42,5 @@ public class QueueToStack_lc225 {
             return queue.isEmpty();
         }
     }
+
 }

@@ -42,4 +42,5 @@ public class StackToQueue_lc232 {
             return in.empty() && out.empty();
         }
     }
+
 }

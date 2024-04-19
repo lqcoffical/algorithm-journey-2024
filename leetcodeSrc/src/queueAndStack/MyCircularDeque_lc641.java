@@ -1,6 +1,7 @@
 package queueAndStack;
 
 public class MyCircularDeque_lc641 {
+
     class MyCircularDeque {
 
         public int[] deque;
@@ -91,4 +92,5 @@ public class MyCircularDeque_lc641 {
             return size == limit;
         }
     }
+
 }
