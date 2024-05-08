@@ -1,4 +1,4 @@
-package queueAndStack;
+package queueAndStack.basic;
 
 public class MinStack_lc155 {
 

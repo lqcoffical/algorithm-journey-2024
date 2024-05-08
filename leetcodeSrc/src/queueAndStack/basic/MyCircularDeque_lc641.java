@@ -1,4 +1,4 @@
-package queueAndStack;
+package queueAndStack.basic;
 
 public class MyCircularDeque_lc641 {
 
