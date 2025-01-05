@@ -45,4 +45,8 @@ public class ReverseList_lc206 {
         return newHead;
     }
 
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+
 }
